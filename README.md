@@ -15,7 +15,7 @@
 - 💻 Skilled in **React.js, Next.js, TypeScript, Tailwind CSS**
 - ⚡ Backend experience with **Frappe Framework & ERPNext**
 - 🎯 Interested in **Full Stack Development & Product Building**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **anilr5364@gmail.com**
 
 ---
 
