@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Anil Rajput</h1>
 <h3 align="center">Frontend Developer | React.js | Next.js | TypeScript | Frappe/ERPNext</h3>
 
@@ -97,4 +97,4 @@
 <p align="center">
   ⭐️ From <a href="https://github.com/04anilr">04anilr</a>
 </p>
-```
+
